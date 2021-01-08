@@ -1,3 +1,6 @@
 # CRUD API - USER
 
-API CRUD using knex
+**API CRUD using knex**
+
+Install dependences
+> npm install
