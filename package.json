@@ -1,0 +1,28 @@
+{
+  "name": "api-knex-user",
+  "version": "1.0.0",
+  "description": "API CRUD using knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeEmbersisc/api-knex-user.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeEmbersisc/api-knex-user/issues"
+  },
+  "homepage": "https://github.com/FelipeEmbersisc/api-knex-user#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.15",
+    "pg": "^8.5.1"
+  }
+}

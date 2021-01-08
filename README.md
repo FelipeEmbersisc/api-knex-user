@@ -1,3 +1,3 @@
-# API USER WITH KNEX
+# CRUD API - USER
 
-Create API with knex
+API CRUD using knex
